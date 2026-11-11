@@ -1,0 +1,526 @@
+date,description,amount,category
+06/26/2026,SPOTIFY USA,146.38,Subscriptions
+2026-03-05,SPOTIFY USA,120.5,Subscriptions
+2026-08-21,SPOTIFY USA, 142.69 ,Subscriptions
+11-Feb-26,AMAZON MKTPLACE PMTS, 72.14 ,Shopping
+08/04/2026,NETFLIX.COM,123.88,Subscriptions
+2026-09-12,Chipotle Mexican Grill,$125.43,Food
+18-Mar-26,Netflix Inc, 83.67 ,Subscriptions
+04/11/2026,Shell Station,70.31,Transport
+09/16/2026,SHELL OIL 5744,$74.81,Transport
+15-Jan-26,NETFLIX.COM, 14.94 ,Subscriptions
+2026-09-26,Amazon.com*2K4, 14.56 ,Shopping
+2026-08-17,Uber Technologies, 58.0 ,Transport
+2026-06-23,Amazon.com*2K4, 146.14 ,Shopping
+2026-01-21,UBER *TRIP,$48.41,Transport
+03/27/2026,CHIPOTLE 1842,$105.02,Food
+07/05/2026,Shell Station,$15.96,Transport
+10/18/2026,Spotify P0A1B2, 7.76 ,Subscriptions
+2026-02-16,Netflix Inc, 136.72 ,Subscriptions
+2026-09-13,CHIPOTLE 1842,$23.46,Food
+2026-01-20,Amazon.com*2K4,$11.36,Shopping
+14-Jun-26,SHELL OIL 5744,$91.67,Transport
+2026-08-26,Netflix Inc, 147.18 ,Subscriptions
+22-Jul-26,NETFLIX.COM, 43.35 ,Subscriptions
+2026-08-14,NETFLIX.COM,$17.66,Subscriptions
+28-Jan-26,Chipotle Mexican Grill,25.3,Food
+2026-02-05,SPOTIFY USA,145.13,Subscriptions
+01-Mar-26,SHELL OIL 5744, 133.79 ,Transport
+08-Aug-26,WALMART #2301,$32.74,Shopping
+26-Feb-26,Spotify P0A1B2, 44.64 ,Subscriptions
+04/21/2026,WAL-MART SUPERCENTER,$88.75,Shopping
+01-Aug-26,Amazon.com*2K4,$43.16,Shopping
+2026-01-17,SHELL OIL 5744,$69.11,Transport
+2026-04-28,Amazon.com*2K4,$39.38,Shopping
+03/19/2026,Amazon.com*2K4,$75.81,Shopping
+08/09/2026,AMAZON MKTPLACE PMTS,18.57,Shopping
+2026-05-23,NETFLIX.COM, 87.39 ,Subscriptions
+04/29/2026,Uber Technologies, 59.31 ,Transport
+13-Apr-26,WAL-MART SUPERCENTER,22.43,Shopping
+08/15/2026,Spotify P0A1B2, 68.0 ,Subscriptions
+02/14/2026,Chipotle Mexican Grill,$89.8,Food
+20-Oct-26,Netflix Inc,$64.24,Subscriptions
+02/07/2026,Spotify P0A1B2,104.23,Subscriptions
+20-Sep-26,WAL-MART SUPERCENTER,$64.07,Shopping
+15-Sep-26,NETFLIX.COM,122.53,Subscriptions
+02-Feb-26,Shell Station,59.56,Transport
+2026-07-14,Uber Technologies,27.92,Transport
+2026-08-30,STARBUCKS #1234 SAN DIEGO CA,$7.67,Food
+06/15/2026,CHIPOTLE 1842,$91.75,Food
+02/22/2026,Uber Technologies,$24.53,Transport
+11-Jul-26,Spotify P0A1B2,67.4,Subscriptions
+2026-06-04,Spotify P0A1B2,32.28,Subscriptions
+2026-05-31,NETFLIX.COM,$55.69,Subscriptions
+22-Feb-26,SPOTIFY USA,14.77,Subscriptions
+09-Aug-26,starbucks store 5521, 68.98 ,Food
+03/26/2026,Spotify P0A1B2,$93.57,Subscriptions
+07/02/2026,SHELL OIL 5744, 129.73 ,Transport
+2026-04-24,CHIPOTLE 1842,32.34,Food
+2026-08-19,Shell Station, 136.55 ,Transport
+2026-05-06,WALMART #2301,111.86,Shopping
+10/13/2026,WALMART #2301,39.63,Shopping
+31-Aug-26,Uber Technologies,$101.41,Transport
+2026-03-02,starbucks store 5521, 85.04 ,Food
+2026-03-17,SBUX*COFFEE, 12.66 ,Food
+07/14/2026,Uber Technologies, 81.29 ,Transport
+26-Mar-26,SBUX*COFFEE,10.61,Food
+2026-05-31,NETFLIX.COM,$66.91,Subscriptions
+20-Oct-26,Netflix Inc,$64.24,Subscriptions
+01-Apr-26,UBER *TRIP,142.84,Transport
+10/23/2026,SPOTIFY USA,$31.27,Subscriptions
+2026-03-16,SBUX*COFFEE,23.23,Food
+21-Jun-26,SHELL OIL 5744,$50.0,Transport
+2026-02-02,Uber Technologies,$108.26,Transport
+09/23/2026,AMAZON MKTPLACE PMTS, 42.21 ,Shopping
+2026-07-30,starbucks store 5521, 138.06 ,Food
+10/27/2026,WAL-MART SUPERCENTER, 100.12 ,Shopping
+09/04/2026,Uber Technologies,35.96,Transport
+30-Jan-26,Netflix Inc,$38.41,Subscriptions
+2026-07-23,Chipotle Mexican Grill,$35.02,Food
+2026-08-23,Netflix Inc, 86.15 ,Subscriptions
+2026-09-09,WALMART #2301,$107.72,Shopping
+11-Jul-26,SPOTIFY USA,143.18,Subscriptions
+2026-02-02,WALMART #2301, 73.01 ,Shopping
+09/22/2026,NETFLIX.COM,$142.37,Subscriptions
+06/15/2026,Chipotle Mexican Grill,74.83,Food
+01/29/2026,SHELL OIL 5744,36.67,Transport
+03/08/2026,Uber Technologies,$66.59,Transport
+09/06/2026,SHELL OIL 5744, 34.49 ,Transport
+02/16/2026,Shell Station,$106.44,Transport
+09-Aug-26,SHELL OIL 5744,13.29,Transport
+02-May-26,WALMART #2301, 33.85 ,Shopping
+02/19/2026,UBER *TRIP,$80.08,Transport
+2026-05-16,WAL-MART SUPERCENTER,109.94,Shopping
+13-Mar-26,SHELL OIL 5744, 39.25 ,Transport
+20-Jul-26,SPOTIFY USA,$21.96,Subscriptions
+09-Feb-26,Shell Station,$46.99,Transport
+19-Feb-26,WALMART #2301,$37.52,Shopping
+2026-06-10,STARBUCKS #1234 SAN DIEGO CA,$57.03,Food
+07/06/2026,SBUX*COFFEE,135.15,Food
+04/25/2026,Netflix Inc,6.48,Subscriptions
+03/31/2026,NETFLIX.COM, 42.01 ,Subscriptions
+03-Mar-26,SPOTIFY USA,4.14,Subscriptions
+11-Feb-26,Amazon.com*2K4, 103.36 ,Shopping
+2026-01-02,Shell Station,147.84,Transport
+01/08/2026,starbucks store 5521, 55.66 ,Food
+2026-05-04,Shell Station, 127.85 ,Transport
+2026-01-17,NETFLIX.COM,16.74,Subscriptions
+2026-10-12,Spotify P0A1B2,$100.3,Subscriptions
+2026-05-17,Chipotle Mexican Grill, 7.26 ,Food
+01/05/2026,WALMART #2301,105.25,Shopping
+07/23/2026,NETFLIX.COM,129.68,Subscriptions
+2026-10-15,Shell Station,77.3,Transport
+2026-02-05,Uber Technologies,43.61,Transport
+02/06/2026,Shell Station, 36.66 ,Transport
+17-Oct-26,Amazon.com*2K4,$38.75,Shopping
+2026-06-20,Chipotle Mexican Grill, 22.61 ,Food
+06/12/2026,Shell Station,$56.02,Transport
+09-Oct-26,Spotify P0A1B2,51.63,Subscriptions
+2026-02-25,NETFLIX.COM, 90.7 ,Subscriptions
+13-Sep-26,Netflix Inc,61.16,Subscriptions
+2026-08-21,WALMART #2301,15.94,Shopping
+08/29/2026,Spotify P0A1B2,$45.01,Subscriptions
+2026-04-26,SPOTIFY USA,141.4,Subscriptions
+24-Jan-26,AMAZON MKTPLACE PMTS,138.85,Shopping
+01/05/2026,WALMART #2301,106.32,Shopping
+10/17/2026,Shell Station,$103.22,Transport
+10/17/2026,AMAZON MKTPLACE PMTS, 146.67 ,Shopping
+2026-05-16,WAL-MART SUPERCENTER,109.94,Shopping
+02-Mar-26,SHELL OIL 5744,29.24,Transport
+07/31/2026,SPOTIFY USA, 9.72 ,Subscriptions
+10/06/2026,Spotify P0A1B2, 72.59 ,Subscriptions
+09/05/2026,Chipotle Mexican Grill,$99.91,Food
+2026-04-26,SPOTIFY USA,141.4,Subscriptions
+08/25/2026,SHELL OIL 5744,39.72,Transport
+19-Aug-26,NETFLIX.COM,71.48,Subscriptions
+04/30/2026,starbucks store 5521, 77.29 ,Food
+05-Feb-26,CHIPOTLE 1842,$146.76,Food
+06/25/2026,Shell Station,$134.44,Transport
+26-Mar-26,SHELL OIL 5744,$26.81,Transport
+06/11/2026,starbucks store 5521, 5.3 ,Food
+11-Feb-26,UBER *TRIP,43.0,Transport
+07-Jun-26,AMAZON MKTPLACE PMTS,41.45,Shopping
+2026-01-05,starbucks store 5521,35.15,Food
+12-Oct-26,Amazon.com*2K4,114.45,Shopping
+05/28/2026,CHIPOTLE 1842,$102.61,Food
+04/13/2026,WAL-MART SUPERCENTER,120.79,Shopping
+08/18/2026,Shell Station,$93.46,Transport
+30-Mar-26,Chipotle Mexican Grill,8.75,Food
+05/16/2026,SPOTIFY USA,$92.68,Subscriptions
+2026-01-08,Netflix Inc, 111.28 ,Subscriptions
+26-Oct-26,CHIPOTLE 1842, 48.23 ,Food
+2026-03-10,Amazon.com*2K4,128.11,Shopping
+02/28/2026,starbucks store 5521, 70.83 ,Food
+05/17/2026,SPOTIFY USA,119.86,Subscriptions
+07/16/2026,AMAZON MKTPLACE PMTS, 114.07 ,Shopping
+09/11/2026,NETFLIX.COM,128.09,Subscriptions
+02/07/2026,Spotify P0A1B2,104.23,Subscriptions
+09-Jun-26,Uber Technologies,83.97,Transport
+2026-01-15,AMAZON MKTPLACE PMTS,$19.96,Shopping
+09-Jul-26,Amazon.com*2K4, 101.56 ,Shopping
+05/05/2026,Amazon.com*2K4,70.15,Shopping
+06-Sep-26,Spotify P0A1B2, 20.85 ,Subscriptions
+09-Sep-26,Spotify P0A1B2,70.74,Subscriptions
+21-Aug-26,WAL-MART SUPERCENTER,112.92,Shopping
+25-Feb-26,Netflix Inc,$93.5,Subscriptions
+16-Apr-26,starbucks store 5521,$12.89,Food
+29-Sep-26,Spotify P0A1B2, 46.35 ,Subscriptions
+09/09/2026,Netflix Inc, 18.08 ,Subscriptions
+06/05/2026,Netflix Inc, 93.32 ,Subscriptions
+19-Sep-26,Spotify P0A1B2,$20.0,Subscriptions
+02/16/2026,Netflix Inc, 66.79 ,Subscriptions
+23-Mar-26,Netflix Inc,76.25,Subscriptions
+08/02/2026,starbucks store 5521,$132.69,Food
+01/09/2026,CHIPOTLE 1842,21.26,Food
+02/16/2026,AMAZON MKTPLACE PMTS,119.23,Shopping
+10/10/2026,Uber Technologies,14.03,Transport
+04-Jan-26,Uber Technologies,$13.44,Transport
+2026-08-23,Shell Station, 12.23 ,Transport
+03/29/2026,NETFLIX.COM,$81.52,Subscriptions
+14-Jan-26,Shell Station,56.05,Transport
+2026-06-16,WAL-MART SUPERCENTER,58.28,Shopping
+01/25/2026,WALMART #2301, 129.58 ,Shopping
+04/25/2026,Netflix Inc,6.48,Subscriptions
+26-Mar-26,SHELL OIL 5744,$26.81,Transport
+05-May-26,WAL-MART SUPERCENTER,$7.64,Shopping
+2026-07-03,WALMART #2301,$142.92,Shopping
+25-Oct-26,SHELL OIL 5744, 57.25 ,Transport
+05/01/2026,SPOTIFY USA,12.13,Subscriptions
+01/12/2026,AMAZON MKTPLACE PMTS, 61.2 ,Shopping
+04-Feb-26,AMAZON MKTPLACE PMTS,$47.14,Shopping
+10-Feb-26,SPOTIFY USA, 39.84 ,Subscriptions
+07/15/2026,UBER *TRIP,94.1,Transport
+09/21/2026,CHIPOTLE 1842, 124.26 ,Food
+04/26/2026,starbucks store 5521, 12.41 ,Food
+08/09/2026,WALMART #2301, 91.56 ,Shopping
+05/18/2026,UBER *TRIP,87.71,Transport
+05/29/2026,Amazon.com*2K4,19.93,Shopping
+2026-01-29,Uber Technologies,$23.6,Transport
+05/28/2026,WALMART #2301,$37.93,Shopping
+07/23/2026,NETFLIX.COM,43.55,Subscriptions
+2026-05-26,Shell Station,$113.6,Transport
+12-Apr-26,Amazon.com*2K4, 14.17 ,Shopping
+03-Oct-26,Amazon.com*2K4, 112.88 ,Shopping
+05/18/2026,UBER *TRIP,87.71,Transport
+30-Jul-26,NETFLIX.COM,54.98,Subscriptions
+29-Jun-26,Shell Station, 109.2 ,Transport
+05-Jul-26,WAL-MART SUPERCENTER,17.61,Shopping
+23-Mar-26,WAL-MART SUPERCENTER, 122.58 ,Shopping
+2026-04-23,Shell Station,$69.03,Transport
+22-Apr-26,SHELL OIL 5744, 145.4 ,Transport
+18-Jun-26,WALMART #2301,128.29,Shopping
+2026-07-23,SBUX*COFFEE,$145.43,Food
+2026-08-25,Uber Technologies,96.77,Transport
+10-Oct-26,Uber Technologies,26.54,Transport
+04/29/2026,Uber Technologies, 59.31 ,Transport
+03-Sep-26,UBER *TRIP, 137.42 ,Transport
+09-Jul-26,CHIPOTLE 1842,$16.59,Food
+30-Jul-26,WAL-MART SUPERCENTER,9.42,Shopping
+2026-01-11,starbucks store 5521,$10.44,Food
+2026-10-28,AMAZON MKTPLACE PMTS, 46.98 ,Shopping
+10/09/2026,UBER *TRIP,146.75,Transport
+2026-07-23,Chipotle Mexican Grill,$35.02,Food
+2026-09-05,AMAZON MKTPLACE PMTS,118.05,Shopping
+08/15/2026,Shell Station,$129.41,Transport
+2026-08-07,Spotify P0A1B2,27.5,Subscriptions
+03-Feb-26,AMAZON MKTPLACE PMTS, 34.01 ,Shopping
+03/27/2026,SHELL OIL 5744, 98.11 ,Transport
+2026-08-17,Chipotle Mexican Grill,$80.64,Food
+2026-02-14,Shell Station, 122.15 ,Transport
+01/09/2026,Amazon.com*2K4,16.68,Shopping
+08/28/2026,NETFLIX.COM,$144.55,Subscriptions
+2026-03-21,Shell Station,14.0,Transport
+2026-08-17,WAL-MART SUPERCENTER,82.17,Shopping
+2026-08-02,AMAZON MKTPLACE PMTS,63.01,Shopping
+15-Aug-26,SBUX*COFFEE,99.43,Food
+25-May-26,Amazon.com*2K4, 117.38 ,Shopping
+06/04/2026,starbucks store 5521,141.96,Food
+2026-08-24,NETFLIX.COM,$81.83,Subscriptions
+2026-09-30,SBUX*COFFEE,$65.97,Food
+31-Aug-26,Chipotle Mexican Grill, 42.03 ,Food
+25-May-26,SHELL OIL 5744,91.91,Transport
+2026-10-18,SBUX*COFFEE,91.61,Food
+26-Oct-26,UBER *TRIP, 73.63 ,Transport
+2026-02-01,STARBUCKS #1234 SAN DIEGO CA,$62.19,Food
+15-Jul-26,starbucks store 5521,87.07,Food
+2026-04-13,Amazon.com*2K4,114.12,Shopping
+05/30/2026,starbucks store 5521, 7.81 ,Food
+2026-08-21,Netflix Inc,51.05,Subscriptions
+29-Jun-26,Chipotle Mexican Grill, 81.25 ,Food
+2026-09-18,CHIPOTLE 1842,56.19,Food
+2026-06-28,Shell Station, 73.0 ,Transport
+05/06/2026,SPOTIFY USA,125.12,Subscriptions
+02/11/2026,Shell Station,58.11,Transport
+2026-02-28,Spotify P0A1B2,123.85,Subscriptions
+2026-01-09,WALMART #2301, 80.82 ,Shopping
+06/20/2026,WAL-MART SUPERCENTER,$47.57,Shopping
+06/29/2026,SPOTIFY USA, 3.9 ,Subscriptions
+2026-04-01,AMAZON MKTPLACE PMTS,144.79,Shopping
+2026-04-06,STARBUCKS #1234 SAN DIEGO CA, 76.36 ,Food
+2026-08-25,WAL-MART SUPERCENTER,29.71,Shopping
+09-Jul-26,Amazon.com*2K4, 101.56 ,Shopping
+2026-08-29,WALMART #2301,54.15,Shopping
+2026-09-01,AMAZON MKTPLACE PMTS,122.92,Shopping
+2026-02-02,Netflix Inc, 96.4 ,Subscriptions
+19-May-26,Amazon.com*2K4, 148.46 ,Shopping
+03/10/2026,NETFLIX.COM,49.04,Subscriptions
+2026-02-14,WAL-MART SUPERCENTER, 12.66 ,Shopping
+2026-05-12,Netflix Inc,137.37,Subscriptions
+08/14/2026,UBER *TRIP,49.11,Transport
+09/03/2026,Spotify P0A1B2,$67.75,Subscriptions
+2026-10-12,Shell Station, 75.86 ,Transport
+2026-08-15,Netflix Inc, 84.1 ,Subscriptions
+2026-02-05,SPOTIFY USA,145.13,Subscriptions
+17-Oct-26,Amazon.com*2K4,97.52,Shopping
+06/01/2026,Spotify P0A1B2,84.5,Subscriptions
+2026-02-01,WAL-MART SUPERCENTER, 69.23 ,Shopping
+01-Aug-26,UBER *TRIP,62.92,Transport
+14-May-26,UBER *TRIP, 84.34 ,Transport
+13-Apr-26,Chipotle Mexican Grill,$90.06,Food
+12-Jun-26,Shell Station, 73.53 ,Transport
+25-May-26,NETFLIX.COM, 109.73 ,Subscriptions
+11-Jul-26,starbucks store 5521,104.94,Food
+29-Sep-26,Shell Station,148.22,Transport
+2026-08-01,WAL-MART SUPERCENTER, 99.27 ,Shopping
+2026-09-06,Shell Station,$73.76,Transport
+27-Aug-26,Spotify P0A1B2, 67.03 ,Subscriptions
+01/18/2026,Chipotle Mexican Grill, 126.34 ,Food
+2026-04-06,Amazon.com*2K4,$140.68,Shopping
+23-Aug-26,SPOTIFY USA, 93.75 ,Subscriptions
+06/24/2026,Shell Station,43.85,Transport
+2026-02-16,Shell Station,$135.14,Transport
+08-Jul-26,AMAZON MKTPLACE PMTS, 27.67 ,Shopping
+27-Jul-26,Uber Technologies,124.57,Transport
+2026-10-07,CHIPOTLE 1842,$35.13,Food
+10/05/2026,Spotify P0A1B2,$8.28,Subscriptions
+06/09/2026,starbucks store 5521,18.89,Food
+17-Sep-26,Chipotle Mexican Grill, 59.52 ,Food
+10/22/2026,WAL-MART SUPERCENTER,59.41,Shopping
+03/21/2026,Uber Technologies, 14.34 ,Transport
+02/16/2026,Shell Station,142.12,Transport
+2026-06-27,Chipotle Mexican Grill,$10.89,Food
+04-Mar-26,SPOTIFY USA,87.3,Subscriptions
+24-Jul-26,Amazon.com*2K4, 38.87 ,Shopping
+22-Feb-26,Chipotle Mexican Grill,$120.53,Food
+12-Aug-26,NETFLIX.COM, 3.25 ,Subscriptions
+15-Mar-26,UBER *TRIP,127.75,Transport
+13-May-26,Amazon.com*2K4,113.51,Shopping
+03/23/2026,SHELL OIL 5744,118.74,Transport
+10/22/2026,Chipotle Mexican Grill,38.56,Food
+2026-07-14,Chipotle Mexican Grill,73.12,Food
+2026-01-20,STARBUCKS #1234 SAN DIEGO CA,23.14,Food
+2026-07-02,NETFLIX.COM,$118.91,Subscriptions
+09-Jun-26,SBUX*COFFEE, 54.69 ,Food
+19-Apr-26,starbucks store 5521, 135.49 ,Food
+2026-09-23,starbucks store 5521, 33.48 ,Food
+09-Aug-26,AMAZON MKTPLACE PMTS, 122.87 ,Shopping
+2026-05-30,Shell Station,77.8,Transport
+25-Apr-26,SBUX*COFFEE,$98.57,Food
+2026-01-07,Spotify P0A1B2,$45.9,Subscriptions
+2026-08-21,WALMART #2301,15.94,Shopping
+2026-07-14,STARBUCKS #1234 SAN DIEGO CA, 17.22 ,Food
+09/18/2026,UBER *TRIP,$14.78,Transport
+26-Aug-26,WAL-MART SUPERCENTER,86.77,Shopping
+10/18/2026,SPOTIFY USA,$90.64,Subscriptions
+2026-09-14,AMAZON MKTPLACE PMTS,$82.38,Shopping
+02/13/2026,STARBUCKS #1234 SAN DIEGO CA, 16.7 ,Food
+04/19/2026,starbucks store 5521,$41.9,Food
+2026-02-12,SBUX*COFFEE,115.18,Food
+01/23/2026,Netflix Inc,119.29,Subscriptions
+05/01/2026,NETFLIX.COM,$101.9,Subscriptions
+25-Oct-26,SHELL OIL 5744, 57.25 ,Transport
+13-May-26,SHELL OIL 5744, 53.03 ,Transport
+10/08/2026,STARBUCKS #1234 SAN DIEGO CA, 135.72 ,Food
+2026-05-05,Shell Station, 40.48 ,Transport
+28-Feb-26,WALMART #2301, 128.36 ,Shopping
+08-Jul-26,CHIPOTLE 1842,101.91,Food
+03-Oct-26,Uber Technologies, 42.86 ,Transport
+05/02/2026,SPOTIFY USA, 47.36 ,Subscriptions
+09/29/2026,UBER *TRIP,$36.17,Transport
+2026-10-20,CHIPOTLE 1842, 98.82 ,Food
+09-Sep-26,Spotify P0A1B2,36.54,Subscriptions
+2026-07-06,Spotify P0A1B2,$26.91,Subscriptions
+2026-07-23,SHELL OIL 5744,$49.21,Transport
+21-Sep-26,WAL-MART SUPERCENTER,23.55,Shopping
+26-Jul-26,starbucks store 5521,$20.62,Food
+2026-01-02,Uber Technologies,114.16,Transport
+08/05/2026,Netflix Inc,118.99,Subscriptions
+11-Jul-26,Uber Technologies, 115.09 ,Transport
+04/08/2026,Uber Technologies,81.83,Transport
+2026-03-09,Spotify P0A1B2,101.74,Subscriptions
+2026-10-09,NETFLIX.COM,$82.7,Subscriptions
+04-Feb-26,starbucks store 5521,37.69,Food
+26-Aug-26,Amazon.com*2K4,$32.99,Shopping
+2026-06-18,starbucks store 5521,63.51,Food
+02-Oct-26,NETFLIX.COM,$142.78,Subscriptions
+2026-01-30,Shell Station, 85.67 ,Transport
+2026-06-17,Uber Technologies,$128.61,Transport
+2026-09-14,Shell Station, 116.92 ,Transport
+28-Oct-26,starbucks store 5521,$109.47,Food
+2026-08-29,WALMART #2301,$114.96,Shopping
+2026-05-04,SBUX*COFFEE,71.57,Food
+03/08/2026,Netflix Inc,$82.41,Subscriptions
+08/29/2026,SHELL OIL 5744,135.88,Transport
+2026-03-05,Spotify P0A1B2, 71.9 ,Subscriptions
+15-Mar-26,WAL-MART SUPERCENTER,$13.06,Shopping
+01-Oct-26,Amazon.com*2K4,77.47,Shopping
+04-Jun-26,UBER *TRIP,$127.99,Transport
+02/10/2026,SHELL OIL 5744,128.73,Transport
+2026-06-20,CHIPOTLE 1842,126.72,Food
+01/17/2026,UBER *TRIP, 129.37 ,Transport
+06/19/2026,CHIPOTLE 1842, 108.45 ,Food
+02/16/2026,Shell Station,$106.44,Transport
+01/17/2026,AMAZON MKTPLACE PMTS,104.47,Shopping
+2026-09-19,Chipotle Mexican Grill,31.5,Food
+17-Sep-26,Netflix Inc,137.16,Subscriptions
+2026-04-15,SPOTIFY USA,$101.45,Subscriptions
+04-Jul-26,Chipotle Mexican Grill, 12.95 ,Food
+2026-07-11,Shell Station,148.95,Transport
+01/15/2026,Amazon.com*2K4,111.4,Shopping
+2026-04-23,Shell Station,$43.12,Transport
+2026-05-03,Shell Station,84.16,Transport
+13-Feb-26,WAL-MART SUPERCENTER, 44.72 ,Shopping
+03-Jun-26,Shell Station, 90.28 ,Transport
+11-Feb-26,Chipotle Mexican Grill, 64.63 ,Food
+07/08/2026,SBUX*COFFEE,$93.35,Food
+2026-03-14,STARBUCKS #1234 SAN DIEGO CA,54.2,Food
+2026-07-30,starbucks store 5521, 138.06 ,Food
+07/04/2026,Spotify P0A1B2,$114.92,Subscriptions
+2026-06-15,AMAZON MKTPLACE PMTS, 124.77 ,Shopping
+08/03/2026,Shell Station,69.69,Transport
+2026-05-08,Uber Technologies,$24.5,Transport
+2026-04-18,CHIPOTLE 1842, 67.45 ,Food
+2026-06-10,Amazon.com*2K4, 143.63 ,Shopping
+20-Jul-26,SPOTIFY USA,$21.96,Subscriptions
+2026-05-30,Amazon.com*2K4, 7.8 ,Shopping
+15-Sep-26,CHIPOTLE 1842,$35.57,Food
+23-Aug-26,STARBUCKS #1234 SAN DIEGO CA,96.32,Food
+20-Mar-26,Spotify P0A1B2, 67.02 ,Subscriptions
+2026-07-23,SHELL OIL 5744,$49.21,Transport
+2026-06-20,starbucks store 5521, 118.01 ,Food
+07/10/2026,AMAZON MKTPLACE PMTS, 68.26 ,Shopping
+2026-04-16,WALMART #2301, 125.44 ,Shopping
+2026-07-06,WAL-MART SUPERCENTER,57.81,Shopping
+03/25/2026,Uber Technologies,146.5,Transport
+05/21/2026,STARBUCKS #1234 SAN DIEGO CA, 39.0 ,Food
+04-Oct-26,WAL-MART SUPERCENTER,$114.02,Shopping
+03/08/2026,Uber Technologies,$66.59,Transport
+18-Jun-26,Spotify P0A1B2, 122.54 ,Subscriptions
+2026-06-19,UBER *TRIP, 26.89 ,Transport
+08-Apr-26,Netflix Inc, 94.27 ,Subscriptions
+03/01/2026,Spotify P0A1B2,23.55,Subscriptions
+15-Mar-26,UBER *TRIP,127.75,Transport
+2026-01-28,Amazon.com*2K4, 30.57 ,Shopping
+01/29/2026,SPOTIFY USA,54.74,Subscriptions
+2026-03-14,Amazon.com*2K4, 87.88 ,Shopping
+2026-05-30,SHELL OIL 5744, 45.53 ,Transport
+07/27/2026,WAL-MART SUPERCENTER, 95.57 ,Shopping
+14-Jun-26,Amazon.com*2K4,$130.83,Shopping
+2026-04-03,AMAZON MKTPLACE PMTS, 149.55 ,Shopping
+2026-08-29,CHIPOTLE 1842,9.4,Food
+2026-10-26,SBUX*COFFEE,$84.22,Food
+2026-01-16,Spotify P0A1B2,11.94,Subscriptions
+18-Jul-26,AMAZON MKTPLACE PMTS,$92.86,Shopping
+2026-08-01,Amazon.com*2K4,110.25,Shopping
+01/03/2026,Amazon.com*2K4,106.6,Shopping
+27-Jan-26,Amazon.com*2K4,$32.92,Shopping
+05-Sep-26,Uber Technologies, 43.65 ,Transport
+04-Jun-26,AMAZON MKTPLACE PMTS,73.99,Shopping
+10/26/2026,Spotify P0A1B2,$61.71,Subscriptions
+24-Jan-26,AMAZON MKTPLACE PMTS,$35.42,Shopping
+08/20/2026,Amazon.com*2K4,14.1,Shopping
+09-Feb-26,CHIPOTLE 1842,129.73,Food
+29-Mar-26,Uber Technologies, 99.83 ,Transport
+04-Jun-26,AMAZON MKTPLACE PMTS,73.99,Shopping
+08/16/2026,Amazon.com*2K4, 74.84 ,Shopping
+2026-03-16,AMAZON MKTPLACE PMTS, 45.7 ,Shopping
+09-Oct-26,Shell Station,99.23,Transport
+10/16/2026,CHIPOTLE 1842, 100.46 ,Food
+10/01/2026,NETFLIX.COM,$21.61,Subscriptions
+22-Feb-26,Uber Technologies,54.99,Transport
+01-Aug-26,CHIPOTLE 1842,$133.26,Food
+2026-04-24,CHIPOTLE 1842,32.34,Food
+17-Jul-26,NETFLIX.COM,77.13,Subscriptions
+03-Jun-26,Shell Station, 43.45 ,Transport
+01/23/2026,AMAZON MKTPLACE PMTS, 3.52 ,Shopping
+28-Feb-26,NETFLIX.COM,103.21,Subscriptions
+10/08/2026,Amazon.com*2K4, 68.55 ,Shopping
+2026-04-12,Netflix Inc, 91.56 ,Subscriptions
+27-Jan-26,AMAZON MKTPLACE PMTS,119.02,Shopping
+28-Feb-26,Shell Station,$83.05,Transport
+2026-02-19,Uber Technologies, 10.44 ,Transport
+2026-07-01,CHIPOTLE 1842, 65.27 ,Food
+04/13/2026,Spotify P0A1B2,21.03,Subscriptions
+2026-02-06,Netflix Inc, 11.77 ,Subscriptions
+03/09/2026,SBUX*COFFEE,$90.8,Food
+18-Apr-26,SPOTIFY USA, 66.19 ,Subscriptions
+28-Feb-26,Chipotle Mexican Grill,42.38,Food
+09-Oct-26,Shell Station, 27.27 ,Transport
+27-Jul-26,STARBUCKS #1234 SAN DIEGO CA, 56.41 ,Food
+2026-01-30,SBUX*COFFEE, 10.37 ,Food
+2026-07-27,AMAZON MKTPLACE PMTS,$109.45,Shopping
+06-Aug-26,STARBUCKS #1234 SAN DIEGO CA, 35.17 ,Food
+10/02/2026,SBUX*COFFEE,$90.29,Food
+2026-06-24,Uber Technologies,$142.31,Transport
+10/03/2026,Amazon.com*2K4,$120.89,Shopping
+04-Jun-26,SPOTIFY USA,$88.62,Subscriptions
+2026-02-25,AMAZON MKTPLACE PMTS,$102.2,Shopping
+03-Jun-26,NETFLIX.COM,77.55,Subscriptions
+24-Jan-26,UBER *TRIP,$65.28,Transport
+20-Jun-26,Netflix Inc,$14.98,Subscriptions
+31-Jul-26,STARBUCKS #1234 SAN DIEGO CA,$23.21,Food
+03/20/2026,AMAZON MKTPLACE PMTS,31.84,Shopping
+2026-02-18,SBUX*COFFEE,85.02,Food
+13-Jul-26,SBUX*COFFEE,$102.03,Food
+06/20/2026,Netflix Inc, 117.53 ,Subscriptions
+2026-06-30,WALMART #2301,$38.36,Shopping
+2026-09-05,AMAZON MKTPLACE PMTS,118.05,Shopping
+2026-02-06,Spotify P0A1B2, 104.05 ,Subscriptions
+14-Jan-26,WALMART #2301,$16.17,Shopping
+05/14/2026,SBUX*COFFEE, 106.49 ,Food
+05-Jan-26,NETFLIX.COM,$70.37,Subscriptions
+2026-08-20,Shell Station,133.55,Transport
+2026-09-12,AMAZON MKTPLACE PMTS, 6.41 ,Shopping
+03/14/2026,WALMART #2301,$111.92,Shopping
+19-Oct-26,AMAZON MKTPLACE PMTS, 94.29 ,Shopping
+04/20/2026,Chipotle Mexican Grill,77.37,Food
+2026-04-11,SPOTIFY USA, 70.26 ,Subscriptions
+2026-08-14,Netflix Inc, 13.04 ,Subscriptions
+11-Oct-26,NETFLIX.COM,$47.01,Subscriptions
+2026-01-24,UBER *TRIP, 38.99 ,Transport
+2026-01-13,SHELL OIL 5744,73.97,Transport
+01/17/2026,UBER *TRIP, 129.37 ,Transport
+09-May-26,SPOTIFY USA,$36.89,Subscriptions
+12-Oct-26,Netflix Inc, 11.82 ,Subscriptions
+02/15/2026,NETFLIX.COM, 98.89 ,Subscriptions
+02/25/2026,SBUX*COFFEE, 102.54 ,Food
+07/29/2026,Amazon.com*2K4,$124.03,Shopping
+18-Jun-26,Uber Technologies,$116.83,Transport
+21-May-26,WAL-MART SUPERCENTER,67.66,Shopping
+2026-02-19,starbucks store 5521, 60.9 ,Food
+01/27/2026,CHIPOTLE 1842,86.83,Food
+2026-08-13,Uber Technologies, 9.42 ,Transport
+27-Feb-26,Netflix Inc,7.74,Subscriptions
+08-Feb-26,STARBUCKS #1234 SAN DIEGO CA,$141.92,Food
+08/31/2026,WAL-MART SUPERCENTER,$121.7,Shopping
+2026-05-21,Netflix Inc,16.72,Subscriptions
+10/04/2026,STARBUCKS #1234 SAN DIEGO CA,$125.9,Food
+02/18/2026,CHIPOTLE 1842,30.16,Food
+2026-07-09,starbucks store 5521, 44.89 ,Food
+27-Jul-26,Netflix Inc,103.85,Subscriptions
+02/07/2026,Netflix Inc,15.06,Subscriptions
+07/10/2026,CHIPOTLE 1842, 84.52 ,Food
+13-Apr-26,starbucks store 5521,$126.37,Food
+05-Feb-26,Uber Technologies,$124.98,Transport
+2026-04-10,NETFLIX.COM,$46.55,Subscriptions
+07-Oct-26,Uber Technologies, 74.78 ,Transport
+2026-06-30,WALMART #2301,93.38,Shopping
+2026-04-15,SPOTIFY USA,$101.45,Subscriptions
+2026-03-16,Spotify P0A1B2,12.3,Subscriptions
+01-Aug-26,NETFLIX.COM,10.83,Subscriptions
+01/04/2026,Netflix Inc,41.34,Subscriptions
+19-Oct-26,WAL-MART SUPERCENTER,$47.24,Shopping
+09/08/2026,Uber Technologies,45.46,Transport
+09/18/2026,SHELL OIL 5744,$35.96,Transport
+09-Mar-26,WALMART #2301, 90.27 ,Shopping
+10/17/2026,Shell Station,$103.22,Transport
