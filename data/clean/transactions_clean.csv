@@ -1,0 +1,501 @@
+date,merchant,amount,category,description
+2026-06-26,Spotify,146.38,Subscriptions,SPOTIFY USA
+2026-03-05,Spotify,120.5,Subscriptions,SPOTIFY USA
+2026-08-21,Spotify,142.69,Subscriptions,SPOTIFY USA
+2026-02-11,Amazon,72.14,Shopping,AMAZON MKTPLACE PMTS
+2026-08-04,Netflix,123.88,Subscriptions,NETFLIX.COM
+2026-09-12,Chipotle,125.43,Food,Chipotle Mexican Grill
+2026-03-18,Netflix,83.67,Subscriptions,Netflix Inc
+2026-04-11,Shell,70.31,Transport,Shell Station
+2026-09-16,Shell,74.81,Transport,SHELL OIL 5744
+2026-01-15,Netflix,14.94,Subscriptions,NETFLIX.COM
+2026-09-26,Amazon,14.56,Shopping,Amazon.com*2K4
+2026-08-17,Uber,58.0,Transport,Uber Technologies
+2026-06-23,Amazon,146.14,Shopping,Amazon.com*2K4
+2026-01-21,Uber,48.41,Transport,UBER *TRIP
+2026-03-27,Chipotle,105.02,Food,CHIPOTLE 1842
+2026-07-05,Shell,15.96,Transport,Shell Station
+2026-10-18,Spotify,7.76,Subscriptions,Spotify P0A1B2
+2026-02-16,Netflix,136.72,Subscriptions,Netflix Inc
+2026-09-13,Chipotle,23.46,Food,CHIPOTLE 1842
+2026-01-20,Amazon,11.36,Shopping,Amazon.com*2K4
+2026-06-14,Shell,91.67,Transport,SHELL OIL 5744
+2026-08-26,Netflix,147.18,Subscriptions,Netflix Inc
+2026-07-22,Netflix,43.35,Subscriptions,NETFLIX.COM
+2026-08-14,Netflix,17.66,Subscriptions,NETFLIX.COM
+2026-01-28,Chipotle,25.3,Food,Chipotle Mexican Grill
+2026-02-05,Spotify,145.13,Subscriptions,SPOTIFY USA
+2026-03-01,Shell,133.79,Transport,SHELL OIL 5744
+2026-08-08,Walmart,32.74,Shopping,WALMART #2301
+2026-02-26,Spotify,44.64,Subscriptions,Spotify P0A1B2
+2026-04-21,Walmart,88.75,Shopping,WAL-MART SUPERCENTER
+2026-08-01,Amazon,43.16,Shopping,Amazon.com*2K4
+2026-01-17,Shell,69.11,Transport,SHELL OIL 5744
+2026-04-28,Amazon,39.38,Shopping,Amazon.com*2K4
+2026-03-19,Amazon,75.81,Shopping,Amazon.com*2K4
+2026-08-09,Amazon,18.57,Shopping,AMAZON MKTPLACE PMTS
+2026-05-23,Netflix,87.39,Subscriptions,NETFLIX.COM
+2026-04-29,Uber,59.31,Transport,Uber Technologies
+2026-04-13,Walmart,22.43,Shopping,WAL-MART SUPERCENTER
+2026-08-15,Spotify,68.0,Subscriptions,Spotify P0A1B2
+2026-02-14,Chipotle,89.8,Food,Chipotle Mexican Grill
+2026-10-20,Netflix,64.24,Subscriptions,Netflix Inc
+2026-02-07,Spotify,104.23,Subscriptions,Spotify P0A1B2
+2026-09-20,Walmart,64.07,Shopping,WAL-MART SUPERCENTER
+2026-09-15,Netflix,122.53,Subscriptions,NETFLIX.COM
+2026-02-02,Shell,59.56,Transport,Shell Station
+2026-07-14,Uber,27.92,Transport,Uber Technologies
+2026-08-30,Starbucks,7.67,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-06-15,Chipotle,91.75,Food,CHIPOTLE 1842
+2026-02-22,Uber,24.53,Transport,Uber Technologies
+2026-07-11,Spotify,67.4,Subscriptions,Spotify P0A1B2
+2026-06-04,Spotify,32.28,Subscriptions,Spotify P0A1B2
+2026-05-31,Netflix,55.69,Subscriptions,NETFLIX.COM
+2026-02-22,Spotify,14.77,Subscriptions,SPOTIFY USA
+2026-08-09,Starbucks,68.98,Food,starbucks store 5521
+2026-03-26,Spotify,93.57,Subscriptions,Spotify P0A1B2
+2026-07-02,Shell,129.73,Transport,SHELL OIL 5744
+2026-04-24,Chipotle,32.34,Food,CHIPOTLE 1842
+2026-08-19,Shell,136.55,Transport,Shell Station
+2026-05-06,Walmart,111.86,Shopping,WALMART #2301
+2026-10-13,Walmart,39.63,Shopping,WALMART #2301
+2026-08-31,Uber,101.41,Transport,Uber Technologies
+2026-03-02,Starbucks,85.04,Food,starbucks store 5521
+2026-03-17,Starbucks,12.66,Food,SBUX*COFFEE
+2026-07-14,Uber,81.29,Transport,Uber Technologies
+2026-03-26,Starbucks,10.61,Food,SBUX*COFFEE
+2026-05-31,Netflix,66.91,Subscriptions,NETFLIX.COM
+2026-04-01,Uber,142.84,Transport,UBER *TRIP
+2026-10-23,Spotify,31.27,Subscriptions,SPOTIFY USA
+2026-03-16,Starbucks,23.23,Food,SBUX*COFFEE
+2026-06-21,Shell,50.0,Transport,SHELL OIL 5744
+2026-02-02,Uber,108.26,Transport,Uber Technologies
+2026-09-23,Amazon,42.21,Shopping,AMAZON MKTPLACE PMTS
+2026-07-30,Starbucks,138.06,Food,starbucks store 5521
+2026-10-27,Walmart,100.12,Shopping,WAL-MART SUPERCENTER
+2026-09-04,Uber,35.96,Transport,Uber Technologies
+2026-01-30,Netflix,38.41,Subscriptions,Netflix Inc
+2026-07-23,Chipotle,35.02,Food,Chipotle Mexican Grill
+2026-08-23,Netflix,86.15,Subscriptions,Netflix Inc
+2026-09-09,Walmart,107.72,Shopping,WALMART #2301
+2026-07-11,Spotify,143.18,Subscriptions,SPOTIFY USA
+2026-02-02,Walmart,73.01,Shopping,WALMART #2301
+2026-09-22,Netflix,142.37,Subscriptions,NETFLIX.COM
+2026-06-15,Chipotle,74.83,Food,Chipotle Mexican Grill
+2026-01-29,Shell,36.67,Transport,SHELL OIL 5744
+2026-03-08,Uber,66.59,Transport,Uber Technologies
+2026-09-06,Shell,34.49,Transport,SHELL OIL 5744
+2026-02-16,Shell,106.44,Transport,Shell Station
+2026-08-09,Shell,13.29,Transport,SHELL OIL 5744
+2026-05-02,Walmart,33.85,Shopping,WALMART #2301
+2026-02-19,Uber,80.08,Transport,UBER *TRIP
+2026-05-16,Walmart,109.94,Shopping,WAL-MART SUPERCENTER
+2026-03-13,Shell,39.25,Transport,SHELL OIL 5744
+2026-07-20,Spotify,21.96,Subscriptions,SPOTIFY USA
+2026-02-09,Shell,46.99,Transport,Shell Station
+2026-02-19,Walmart,37.52,Shopping,WALMART #2301
+2026-06-10,Starbucks,57.03,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-07-06,Starbucks,135.15,Food,SBUX*COFFEE
+2026-04-25,Netflix,6.48,Subscriptions,Netflix Inc
+2026-03-31,Netflix,42.01,Subscriptions,NETFLIX.COM
+2026-03-03,Spotify,4.14,Subscriptions,SPOTIFY USA
+2026-02-11,Amazon,103.36,Shopping,Amazon.com*2K4
+2026-01-02,Shell,147.84,Transport,Shell Station
+2026-01-08,Starbucks,55.66,Food,starbucks store 5521
+2026-05-04,Shell,127.85,Transport,Shell Station
+2026-01-17,Netflix,16.74,Subscriptions,NETFLIX.COM
+2026-10-12,Spotify,100.3,Subscriptions,Spotify P0A1B2
+2026-05-17,Chipotle,7.26,Food,Chipotle Mexican Grill
+2026-01-05,Walmart,105.25,Shopping,WALMART #2301
+2026-07-23,Netflix,129.68,Subscriptions,NETFLIX.COM
+2026-10-15,Shell,77.3,Transport,Shell Station
+2026-02-05,Uber,43.61,Transport,Uber Technologies
+2026-02-06,Shell,36.66,Transport,Shell Station
+2026-10-17,Amazon,38.75,Shopping,Amazon.com*2K4
+2026-06-20,Chipotle,22.61,Food,Chipotle Mexican Grill
+2026-06-12,Shell,56.02,Transport,Shell Station
+2026-10-09,Spotify,51.63,Subscriptions,Spotify P0A1B2
+2026-02-25,Netflix,90.7,Subscriptions,NETFLIX.COM
+2026-09-13,Netflix,61.16,Subscriptions,Netflix Inc
+2026-08-21,Walmart,15.94,Shopping,WALMART #2301
+2026-08-29,Spotify,45.01,Subscriptions,Spotify P0A1B2
+2026-04-26,Spotify,141.4,Subscriptions,SPOTIFY USA
+2026-01-24,Amazon,138.85,Shopping,AMAZON MKTPLACE PMTS
+2026-01-05,Walmart,106.32,Shopping,WALMART #2301
+2026-10-17,Shell,103.22,Transport,Shell Station
+2026-10-17,Amazon,146.67,Shopping,AMAZON MKTPLACE PMTS
+2026-03-02,Shell,29.24,Transport,SHELL OIL 5744
+2026-07-31,Spotify,9.72,Subscriptions,SPOTIFY USA
+2026-10-06,Spotify,72.59,Subscriptions,Spotify P0A1B2
+2026-09-05,Chipotle,99.91,Food,Chipotle Mexican Grill
+2026-08-25,Shell,39.72,Transport,SHELL OIL 5744
+2026-08-19,Netflix,71.48,Subscriptions,NETFLIX.COM
+2026-04-30,Starbucks,77.29,Food,starbucks store 5521
+2026-02-05,Chipotle,146.76,Food,CHIPOTLE 1842
+2026-06-25,Shell,134.44,Transport,Shell Station
+2026-03-26,Shell,26.81,Transport,SHELL OIL 5744
+2026-06-11,Starbucks,5.3,Food,starbucks store 5521
+2026-02-11,Uber,43.0,Transport,UBER *TRIP
+2026-06-07,Amazon,41.45,Shopping,AMAZON MKTPLACE PMTS
+2026-01-05,Starbucks,35.15,Food,starbucks store 5521
+2026-10-12,Amazon,114.45,Shopping,Amazon.com*2K4
+2026-05-28,Chipotle,102.61,Food,CHIPOTLE 1842
+2026-04-13,Walmart,120.79,Shopping,WAL-MART SUPERCENTER
+2026-08-18,Shell,93.46,Transport,Shell Station
+2026-03-30,Chipotle,8.75,Food,Chipotle Mexican Grill
+2026-05-16,Spotify,92.68,Subscriptions,SPOTIFY USA
+2026-01-08,Netflix,111.28,Subscriptions,Netflix Inc
+2026-10-26,Chipotle,48.23,Food,CHIPOTLE 1842
+2026-03-10,Amazon,128.11,Shopping,Amazon.com*2K4
+2026-02-28,Starbucks,70.83,Food,starbucks store 5521
+2026-05-17,Spotify,119.86,Subscriptions,SPOTIFY USA
+2026-07-16,Amazon,114.07,Shopping,AMAZON MKTPLACE PMTS
+2026-09-11,Netflix,128.09,Subscriptions,NETFLIX.COM
+2026-06-09,Uber,83.97,Transport,Uber Technologies
+2026-01-15,Amazon,19.96,Shopping,AMAZON MKTPLACE PMTS
+2026-07-09,Amazon,101.56,Shopping,Amazon.com*2K4
+2026-05-05,Amazon,70.15,Shopping,Amazon.com*2K4
+2026-09-06,Spotify,20.85,Subscriptions,Spotify P0A1B2
+2026-09-09,Spotify,70.74,Subscriptions,Spotify P0A1B2
+2026-08-21,Walmart,112.92,Shopping,WAL-MART SUPERCENTER
+2026-02-25,Netflix,93.5,Subscriptions,Netflix Inc
+2026-04-16,Starbucks,12.89,Food,starbucks store 5521
+2026-09-29,Spotify,46.35,Subscriptions,Spotify P0A1B2
+2026-09-09,Netflix,18.08,Subscriptions,Netflix Inc
+2026-06-05,Netflix,93.32,Subscriptions,Netflix Inc
+2026-09-19,Spotify,20.0,Subscriptions,Spotify P0A1B2
+2026-02-16,Netflix,66.79,Subscriptions,Netflix Inc
+2026-03-23,Netflix,76.25,Subscriptions,Netflix Inc
+2026-08-02,Starbucks,132.69,Food,starbucks store 5521
+2026-01-09,Chipotle,21.26,Food,CHIPOTLE 1842
+2026-02-16,Amazon,119.23,Shopping,AMAZON MKTPLACE PMTS
+2026-10-10,Uber,14.03,Transport,Uber Technologies
+2026-01-04,Uber,13.44,Transport,Uber Technologies
+2026-08-23,Shell,12.23,Transport,Shell Station
+2026-03-29,Netflix,81.52,Subscriptions,NETFLIX.COM
+2026-01-14,Shell,56.05,Transport,Shell Station
+2026-06-16,Walmart,58.28,Shopping,WAL-MART SUPERCENTER
+2026-01-25,Walmart,129.58,Shopping,WALMART #2301
+2026-05-05,Walmart,7.64,Shopping,WAL-MART SUPERCENTER
+2026-07-03,Walmart,142.92,Shopping,WALMART #2301
+2026-10-25,Shell,57.25,Transport,SHELL OIL 5744
+2026-05-01,Spotify,12.13,Subscriptions,SPOTIFY USA
+2026-01-12,Amazon,61.2,Shopping,AMAZON MKTPLACE PMTS
+2026-02-04,Amazon,47.14,Shopping,AMAZON MKTPLACE PMTS
+2026-02-10,Spotify,39.84,Subscriptions,SPOTIFY USA
+2026-07-15,Uber,94.1,Transport,UBER *TRIP
+2026-09-21,Chipotle,124.26,Food,CHIPOTLE 1842
+2026-04-26,Starbucks,12.41,Food,starbucks store 5521
+2026-08-09,Walmart,91.56,Shopping,WALMART #2301
+2026-05-18,Uber,87.71,Transport,UBER *TRIP
+2026-05-29,Amazon,19.93,Shopping,Amazon.com*2K4
+2026-01-29,Uber,23.6,Transport,Uber Technologies
+2026-05-28,Walmart,37.93,Shopping,WALMART #2301
+2026-07-23,Netflix,43.55,Subscriptions,NETFLIX.COM
+2026-05-26,Shell,113.6,Transport,Shell Station
+2026-04-12,Amazon,14.17,Shopping,Amazon.com*2K4
+2026-10-03,Amazon,112.88,Shopping,Amazon.com*2K4
+2026-07-30,Netflix,54.98,Subscriptions,NETFLIX.COM
+2026-06-29,Shell,109.2,Transport,Shell Station
+2026-07-05,Walmart,17.61,Shopping,WAL-MART SUPERCENTER
+2026-03-23,Walmart,122.58,Shopping,WAL-MART SUPERCENTER
+2026-04-23,Shell,69.03,Transport,Shell Station
+2026-04-22,Shell,145.4,Transport,SHELL OIL 5744
+2026-06-18,Walmart,128.29,Shopping,WALMART #2301
+2026-07-23,Starbucks,145.43,Food,SBUX*COFFEE
+2026-08-25,Uber,96.77,Transport,Uber Technologies
+2026-10-10,Uber,26.54,Transport,Uber Technologies
+2026-09-03,Uber,137.42,Transport,UBER *TRIP
+2026-07-09,Chipotle,16.59,Food,CHIPOTLE 1842
+2026-07-30,Walmart,9.42,Shopping,WAL-MART SUPERCENTER
+2026-01-11,Starbucks,10.44,Food,starbucks store 5521
+2026-10-28,Amazon,46.98,Shopping,AMAZON MKTPLACE PMTS
+2026-10-09,Uber,146.75,Transport,UBER *TRIP
+2026-09-05,Amazon,118.05,Shopping,AMAZON MKTPLACE PMTS
+2026-08-15,Shell,129.41,Transport,Shell Station
+2026-08-07,Spotify,27.5,Subscriptions,Spotify P0A1B2
+2026-02-03,Amazon,34.01,Shopping,AMAZON MKTPLACE PMTS
+2026-03-27,Shell,98.11,Transport,SHELL OIL 5744
+2026-08-17,Chipotle,80.64,Food,Chipotle Mexican Grill
+2026-02-14,Shell,122.15,Transport,Shell Station
+2026-01-09,Amazon,16.68,Shopping,Amazon.com*2K4
+2026-08-28,Netflix,144.55,Subscriptions,NETFLIX.COM
+2026-03-21,Shell,14.0,Transport,Shell Station
+2026-08-17,Walmart,82.17,Shopping,WAL-MART SUPERCENTER
+2026-08-02,Amazon,63.01,Shopping,AMAZON MKTPLACE PMTS
+2026-08-15,Starbucks,99.43,Food,SBUX*COFFEE
+2026-05-25,Amazon,117.38,Shopping,Amazon.com*2K4
+2026-06-04,Starbucks,141.96,Food,starbucks store 5521
+2026-08-24,Netflix,81.83,Subscriptions,NETFLIX.COM
+2026-09-30,Starbucks,65.97,Food,SBUX*COFFEE
+2026-08-31,Chipotle,42.03,Food,Chipotle Mexican Grill
+2026-05-25,Shell,91.91,Transport,SHELL OIL 5744
+2026-10-18,Starbucks,91.61,Food,SBUX*COFFEE
+2026-10-26,Uber,73.63,Transport,UBER *TRIP
+2026-02-01,Starbucks,62.19,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-07-15,Starbucks,87.07,Food,starbucks store 5521
+2026-04-13,Amazon,114.12,Shopping,Amazon.com*2K4
+2026-05-30,Starbucks,7.81,Food,starbucks store 5521
+2026-08-21,Netflix,51.05,Subscriptions,Netflix Inc
+2026-06-29,Chipotle,81.25,Food,Chipotle Mexican Grill
+2026-09-18,Chipotle,56.19,Food,CHIPOTLE 1842
+2026-06-28,Shell,73.0,Transport,Shell Station
+2026-05-06,Spotify,125.12,Subscriptions,SPOTIFY USA
+2026-02-11,Shell,58.11,Transport,Shell Station
+2026-02-28,Spotify,123.85,Subscriptions,Spotify P0A1B2
+2026-01-09,Walmart,80.82,Shopping,WALMART #2301
+2026-06-20,Walmart,47.57,Shopping,WAL-MART SUPERCENTER
+2026-06-29,Spotify,3.9,Subscriptions,SPOTIFY USA
+2026-04-01,Amazon,144.79,Shopping,AMAZON MKTPLACE PMTS
+2026-04-06,Starbucks,76.36,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-08-25,Walmart,29.71,Shopping,WAL-MART SUPERCENTER
+2026-08-29,Walmart,54.15,Shopping,WALMART #2301
+2026-09-01,Amazon,122.92,Shopping,AMAZON MKTPLACE PMTS
+2026-02-02,Netflix,96.4,Subscriptions,Netflix Inc
+2026-05-19,Amazon,148.46,Shopping,Amazon.com*2K4
+2026-03-10,Netflix,49.04,Subscriptions,NETFLIX.COM
+2026-02-14,Walmart,12.66,Shopping,WAL-MART SUPERCENTER
+2026-05-12,Netflix,137.37,Subscriptions,Netflix Inc
+2026-08-14,Uber,49.11,Transport,UBER *TRIP
+2026-09-03,Spotify,67.75,Subscriptions,Spotify P0A1B2
+2026-10-12,Shell,75.86,Transport,Shell Station
+2026-08-15,Netflix,84.1,Subscriptions,Netflix Inc
+2026-10-17,Amazon,97.52,Shopping,Amazon.com*2K4
+2026-06-01,Spotify,84.5,Subscriptions,Spotify P0A1B2
+2026-02-01,Walmart,69.23,Shopping,WAL-MART SUPERCENTER
+2026-08-01,Uber,62.92,Transport,UBER *TRIP
+2026-05-14,Uber,84.34,Transport,UBER *TRIP
+2026-04-13,Chipotle,90.06,Food,Chipotle Mexican Grill
+2026-06-12,Shell,73.53,Transport,Shell Station
+2026-05-25,Netflix,109.73,Subscriptions,NETFLIX.COM
+2026-07-11,Starbucks,104.94,Food,starbucks store 5521
+2026-09-29,Shell,148.22,Transport,Shell Station
+2026-08-01,Walmart,99.27,Shopping,WAL-MART SUPERCENTER
+2026-09-06,Shell,73.76,Transport,Shell Station
+2026-08-27,Spotify,67.03,Subscriptions,Spotify P0A1B2
+2026-01-18,Chipotle,126.34,Food,Chipotle Mexican Grill
+2026-04-06,Amazon,140.68,Shopping,Amazon.com*2K4
+2026-08-23,Spotify,93.75,Subscriptions,SPOTIFY USA
+2026-06-24,Shell,43.85,Transport,Shell Station
+2026-02-16,Shell,135.14,Transport,Shell Station
+2026-07-08,Amazon,27.67,Shopping,AMAZON MKTPLACE PMTS
+2026-07-27,Uber,124.57,Transport,Uber Technologies
+2026-10-07,Chipotle,35.13,Food,CHIPOTLE 1842
+2026-10-05,Spotify,8.28,Subscriptions,Spotify P0A1B2
+2026-06-09,Starbucks,18.89,Food,starbucks store 5521
+2026-09-17,Chipotle,59.52,Food,Chipotle Mexican Grill
+2026-10-22,Walmart,59.41,Shopping,WAL-MART SUPERCENTER
+2026-03-21,Uber,14.34,Transport,Uber Technologies
+2026-02-16,Shell,142.12,Transport,Shell Station
+2026-06-27,Chipotle,10.89,Food,Chipotle Mexican Grill
+2026-03-04,Spotify,87.3,Subscriptions,SPOTIFY USA
+2026-07-24,Amazon,38.87,Shopping,Amazon.com*2K4
+2026-02-22,Chipotle,120.53,Food,Chipotle Mexican Grill
+2026-08-12,Netflix,3.25,Subscriptions,NETFLIX.COM
+2026-03-15,Uber,127.75,Transport,UBER *TRIP
+2026-05-13,Amazon,113.51,Shopping,Amazon.com*2K4
+2026-03-23,Shell,118.74,Transport,SHELL OIL 5744
+2026-10-22,Chipotle,38.56,Food,Chipotle Mexican Grill
+2026-07-14,Chipotle,73.12,Food,Chipotle Mexican Grill
+2026-01-20,Starbucks,23.14,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-07-02,Netflix,118.91,Subscriptions,NETFLIX.COM
+2026-06-09,Starbucks,54.69,Food,SBUX*COFFEE
+2026-04-19,Starbucks,135.49,Food,starbucks store 5521
+2026-09-23,Starbucks,33.48,Food,starbucks store 5521
+2026-08-09,Amazon,122.87,Shopping,AMAZON MKTPLACE PMTS
+2026-05-30,Shell,77.8,Transport,Shell Station
+2026-04-25,Starbucks,98.57,Food,SBUX*COFFEE
+2026-01-07,Spotify,45.9,Subscriptions,Spotify P0A1B2
+2026-07-14,Starbucks,17.22,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-09-18,Uber,14.78,Transport,UBER *TRIP
+2026-08-26,Walmart,86.77,Shopping,WAL-MART SUPERCENTER
+2026-10-18,Spotify,90.64,Subscriptions,SPOTIFY USA
+2026-09-14,Amazon,82.38,Shopping,AMAZON MKTPLACE PMTS
+2026-02-13,Starbucks,16.7,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-04-19,Starbucks,41.9,Food,starbucks store 5521
+2026-02-12,Starbucks,115.18,Food,SBUX*COFFEE
+2026-01-23,Netflix,119.29,Subscriptions,Netflix Inc
+2026-05-01,Netflix,101.9,Subscriptions,NETFLIX.COM
+2026-05-13,Shell,53.03,Transport,SHELL OIL 5744
+2026-10-08,Starbucks,135.72,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-05-05,Shell,40.48,Transport,Shell Station
+2026-02-28,Walmart,128.36,Shopping,WALMART #2301
+2026-07-08,Chipotle,101.91,Food,CHIPOTLE 1842
+2026-10-03,Uber,42.86,Transport,Uber Technologies
+2026-05-02,Spotify,47.36,Subscriptions,SPOTIFY USA
+2026-09-29,Uber,36.17,Transport,UBER *TRIP
+2026-10-20,Chipotle,98.82,Food,CHIPOTLE 1842
+2026-09-09,Spotify,36.54,Subscriptions,Spotify P0A1B2
+2026-07-06,Spotify,26.91,Subscriptions,Spotify P0A1B2
+2026-07-23,Shell,49.21,Transport,SHELL OIL 5744
+2026-09-21,Walmart,23.55,Shopping,WAL-MART SUPERCENTER
+2026-07-26,Starbucks,20.62,Food,starbucks store 5521
+2026-01-02,Uber,114.16,Transport,Uber Technologies
+2026-08-05,Netflix,118.99,Subscriptions,Netflix Inc
+2026-07-11,Uber,115.09,Transport,Uber Technologies
+2026-04-08,Uber,81.83,Transport,Uber Technologies
+2026-03-09,Spotify,101.74,Subscriptions,Spotify P0A1B2
+2026-10-09,Netflix,82.7,Subscriptions,NETFLIX.COM
+2026-02-04,Starbucks,37.69,Food,starbucks store 5521
+2026-08-26,Amazon,32.99,Shopping,Amazon.com*2K4
+2026-06-18,Starbucks,63.51,Food,starbucks store 5521
+2026-10-02,Netflix,142.78,Subscriptions,NETFLIX.COM
+2026-01-30,Shell,85.67,Transport,Shell Station
+2026-06-17,Uber,128.61,Transport,Uber Technologies
+2026-09-14,Shell,116.92,Transport,Shell Station
+2026-10-28,Starbucks,109.47,Food,starbucks store 5521
+2026-08-29,Walmart,114.96,Shopping,WALMART #2301
+2026-05-04,Starbucks,71.57,Food,SBUX*COFFEE
+2026-03-08,Netflix,82.41,Subscriptions,Netflix Inc
+2026-08-29,Shell,135.88,Transport,SHELL OIL 5744
+2026-03-05,Spotify,71.9,Subscriptions,Spotify P0A1B2
+2026-03-15,Walmart,13.06,Shopping,WAL-MART SUPERCENTER
+2026-10-01,Amazon,77.47,Shopping,Amazon.com*2K4
+2026-06-04,Uber,127.99,Transport,UBER *TRIP
+2026-02-10,Shell,128.73,Transport,SHELL OIL 5744
+2026-06-20,Chipotle,126.72,Food,CHIPOTLE 1842
+2026-01-17,Uber,129.37,Transport,UBER *TRIP
+2026-06-19,Chipotle,108.45,Food,CHIPOTLE 1842
+2026-01-17,Amazon,104.47,Shopping,AMAZON MKTPLACE PMTS
+2026-09-19,Chipotle,31.5,Food,Chipotle Mexican Grill
+2026-09-17,Netflix,137.16,Subscriptions,Netflix Inc
+2026-04-15,Spotify,101.45,Subscriptions,SPOTIFY USA
+2026-07-04,Chipotle,12.95,Food,Chipotle Mexican Grill
+2026-07-11,Shell,148.95,Transport,Shell Station
+2026-01-15,Amazon,111.4,Shopping,Amazon.com*2K4
+2026-04-23,Shell,43.12,Transport,Shell Station
+2026-05-03,Shell,84.16,Transport,Shell Station
+2026-02-13,Walmart,44.72,Shopping,WAL-MART SUPERCENTER
+2026-06-03,Shell,90.28,Transport,Shell Station
+2026-02-11,Chipotle,64.63,Food,Chipotle Mexican Grill
+2026-07-08,Starbucks,93.35,Food,SBUX*COFFEE
+2026-03-14,Starbucks,54.2,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-07-04,Spotify,114.92,Subscriptions,Spotify P0A1B2
+2026-06-15,Amazon,124.77,Shopping,AMAZON MKTPLACE PMTS
+2026-08-03,Shell,69.69,Transport,Shell Station
+2026-05-08,Uber,24.5,Transport,Uber Technologies
+2026-04-18,Chipotle,67.45,Food,CHIPOTLE 1842
+2026-06-10,Amazon,143.63,Shopping,Amazon.com*2K4
+2026-05-30,Amazon,7.8,Shopping,Amazon.com*2K4
+2026-09-15,Chipotle,35.57,Food,CHIPOTLE 1842
+2026-08-23,Starbucks,96.32,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-03-20,Spotify,67.02,Subscriptions,Spotify P0A1B2
+2026-06-20,Starbucks,118.01,Food,starbucks store 5521
+2026-07-10,Amazon,68.26,Shopping,AMAZON MKTPLACE PMTS
+2026-04-16,Walmart,125.44,Shopping,WALMART #2301
+2026-07-06,Walmart,57.81,Shopping,WAL-MART SUPERCENTER
+2026-03-25,Uber,146.5,Transport,Uber Technologies
+2026-05-21,Starbucks,39.0,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-10-04,Walmart,114.02,Shopping,WAL-MART SUPERCENTER
+2026-06-18,Spotify,122.54,Subscriptions,Spotify P0A1B2
+2026-06-19,Uber,26.89,Transport,UBER *TRIP
+2026-04-08,Netflix,94.27,Subscriptions,Netflix Inc
+2026-03-01,Spotify,23.55,Subscriptions,Spotify P0A1B2
+2026-01-28,Amazon,30.57,Shopping,Amazon.com*2K4
+2026-01-29,Spotify,54.74,Subscriptions,SPOTIFY USA
+2026-03-14,Amazon,87.88,Shopping,Amazon.com*2K4
+2026-05-30,Shell,45.53,Transport,SHELL OIL 5744
+2026-07-27,Walmart,95.57,Shopping,WAL-MART SUPERCENTER
+2026-06-14,Amazon,130.83,Shopping,Amazon.com*2K4
+2026-04-03,Amazon,149.55,Shopping,AMAZON MKTPLACE PMTS
+2026-08-29,Chipotle,9.4,Food,CHIPOTLE 1842
+2026-10-26,Starbucks,84.22,Food,SBUX*COFFEE
+2026-01-16,Spotify,11.94,Subscriptions,Spotify P0A1B2
+2026-07-18,Amazon,92.86,Shopping,AMAZON MKTPLACE PMTS
+2026-08-01,Amazon,110.25,Shopping,Amazon.com*2K4
+2026-01-03,Amazon,106.6,Shopping,Amazon.com*2K4
+2026-01-27,Amazon,32.92,Shopping,Amazon.com*2K4
+2026-09-05,Uber,43.65,Transport,Uber Technologies
+2026-06-04,Amazon,73.99,Shopping,AMAZON MKTPLACE PMTS
+2026-10-26,Spotify,61.71,Subscriptions,Spotify P0A1B2
+2026-01-24,Amazon,35.42,Shopping,AMAZON MKTPLACE PMTS
+2026-08-20,Amazon,14.1,Shopping,Amazon.com*2K4
+2026-02-09,Chipotle,129.73,Food,CHIPOTLE 1842
+2026-03-29,Uber,99.83,Transport,Uber Technologies
+2026-08-16,Amazon,74.84,Shopping,Amazon.com*2K4
+2026-03-16,Amazon,45.7,Shopping,AMAZON MKTPLACE PMTS
+2026-10-09,Shell,99.23,Transport,Shell Station
+2026-10-16,Chipotle,100.46,Food,CHIPOTLE 1842
+2026-10-01,Netflix,21.61,Subscriptions,NETFLIX.COM
+2026-02-22,Uber,54.99,Transport,Uber Technologies
+2026-08-01,Chipotle,133.26,Food,CHIPOTLE 1842
+2026-07-17,Netflix,77.13,Subscriptions,NETFLIX.COM
+2026-06-03,Shell,43.45,Transport,Shell Station
+2026-01-23,Amazon,3.52,Shopping,AMAZON MKTPLACE PMTS
+2026-02-28,Netflix,103.21,Subscriptions,NETFLIX.COM
+2026-10-08,Amazon,68.55,Shopping,Amazon.com*2K4
+2026-04-12,Netflix,91.56,Subscriptions,Netflix Inc
+2026-01-27,Amazon,119.02,Shopping,AMAZON MKTPLACE PMTS
+2026-02-28,Shell,83.05,Transport,Shell Station
+2026-02-19,Uber,10.44,Transport,Uber Technologies
+2026-07-01,Chipotle,65.27,Food,CHIPOTLE 1842
+2026-04-13,Spotify,21.03,Subscriptions,Spotify P0A1B2
+2026-02-06,Netflix,11.77,Subscriptions,Netflix Inc
+2026-03-09,Starbucks,90.8,Food,SBUX*COFFEE
+2026-04-18,Spotify,66.19,Subscriptions,SPOTIFY USA
+2026-02-28,Chipotle,42.38,Food,Chipotle Mexican Grill
+2026-10-09,Shell,27.27,Transport,Shell Station
+2026-07-27,Starbucks,56.41,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-01-30,Starbucks,10.37,Food,SBUX*COFFEE
+2026-07-27,Amazon,109.45,Shopping,AMAZON MKTPLACE PMTS
+2026-08-06,Starbucks,35.17,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-10-02,Starbucks,90.29,Food,SBUX*COFFEE
+2026-06-24,Uber,142.31,Transport,Uber Technologies
+2026-10-03,Amazon,120.89,Shopping,Amazon.com*2K4
+2026-06-04,Spotify,88.62,Subscriptions,SPOTIFY USA
+2026-02-25,Amazon,102.2,Shopping,AMAZON MKTPLACE PMTS
+2026-06-03,Netflix,77.55,Subscriptions,NETFLIX.COM
+2026-01-24,Uber,65.28,Transport,UBER *TRIP
+2026-06-20,Netflix,14.98,Subscriptions,Netflix Inc
+2026-07-31,Starbucks,23.21,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-03-20,Amazon,31.84,Shopping,AMAZON MKTPLACE PMTS
+2026-02-18,Starbucks,85.02,Food,SBUX*COFFEE
+2026-07-13,Starbucks,102.03,Food,SBUX*COFFEE
+2026-06-20,Netflix,117.53,Subscriptions,Netflix Inc
+2026-06-30,Walmart,38.36,Shopping,WALMART #2301
+2026-02-06,Spotify,104.05,Subscriptions,Spotify P0A1B2
+2026-01-14,Walmart,16.17,Shopping,WALMART #2301
+2026-05-14,Starbucks,106.49,Food,SBUX*COFFEE
+2026-01-05,Netflix,70.37,Subscriptions,NETFLIX.COM
+2026-08-20,Shell,133.55,Transport,Shell Station
+2026-09-12,Amazon,6.41,Shopping,AMAZON MKTPLACE PMTS
+2026-03-14,Walmart,111.92,Shopping,WALMART #2301
+2026-10-19,Amazon,94.29,Shopping,AMAZON MKTPLACE PMTS
+2026-04-20,Chipotle,77.37,Food,Chipotle Mexican Grill
+2026-04-11,Spotify,70.26,Subscriptions,SPOTIFY USA
+2026-08-14,Netflix,13.04,Subscriptions,Netflix Inc
+2026-10-11,Netflix,47.01,Subscriptions,NETFLIX.COM
+2026-01-24,Uber,38.99,Transport,UBER *TRIP
+2026-01-13,Shell,73.97,Transport,SHELL OIL 5744
+2026-05-09,Spotify,36.89,Subscriptions,SPOTIFY USA
+2026-10-12,Netflix,11.82,Subscriptions,Netflix Inc
+2026-02-15,Netflix,98.89,Subscriptions,NETFLIX.COM
+2026-02-25,Starbucks,102.54,Food,SBUX*COFFEE
+2026-07-29,Amazon,124.03,Shopping,Amazon.com*2K4
+2026-06-18,Uber,116.83,Transport,Uber Technologies
+2026-05-21,Walmart,67.66,Shopping,WAL-MART SUPERCENTER
+2026-02-19,Starbucks,60.9,Food,starbucks store 5521
+2026-01-27,Chipotle,86.83,Food,CHIPOTLE 1842
+2026-08-13,Uber,9.42,Transport,Uber Technologies
+2026-02-27,Netflix,7.74,Subscriptions,Netflix Inc
+2026-02-08,Starbucks,141.92,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-08-31,Walmart,121.7,Shopping,WAL-MART SUPERCENTER
+2026-05-21,Netflix,16.72,Subscriptions,Netflix Inc
+2026-10-04,Starbucks,125.9,Food,STARBUCKS #1234 SAN DIEGO CA
+2026-02-18,Chipotle,30.16,Food,CHIPOTLE 1842
+2026-07-09,Starbucks,44.89,Food,starbucks store 5521
+2026-07-27,Netflix,103.85,Subscriptions,Netflix Inc
+2026-02-07,Netflix,15.06,Subscriptions,Netflix Inc
+2026-07-10,Chipotle,84.52,Food,CHIPOTLE 1842
+2026-04-13,Starbucks,126.37,Food,starbucks store 5521
+2026-02-05,Uber,124.98,Transport,Uber Technologies
+2026-04-10,Netflix,46.55,Subscriptions,NETFLIX.COM
+2026-10-07,Uber,74.78,Transport,Uber Technologies
+2026-06-30,Walmart,93.38,Shopping,WALMART #2301
+2026-03-16,Spotify,12.3,Subscriptions,Spotify P0A1B2
+2026-08-01,Netflix,10.83,Subscriptions,NETFLIX.COM
+2026-01-04,Netflix,41.34,Subscriptions,Netflix Inc
+2026-10-19,Walmart,47.24,Shopping,WAL-MART SUPERCENTER
+2026-09-08,Uber,45.46,Transport,Uber Technologies
+2026-09-18,Shell,35.96,Transport,SHELL OIL 5744
+2026-03-09,Walmart,90.27,Shopping,WALMART #2301
