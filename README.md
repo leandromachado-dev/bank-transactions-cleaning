@@ -2,7 +2,7 @@
 
 Cleaning and standardizing messy bank transaction data with Python and pandas.
 
-> **Status:** work in progress. Data generation is done; the cleaning pipeline is next.
+> **Status:** cleaning pipeline done; machine learning categorization is next.
 
 ## Problem
 
@@ -20,6 +20,20 @@ Real bank data is private, so this project uses **synthetic transactions** creat
 | Duplicate rows | 25 repeated transactions |
 
 The raw file has **525 rows** and is saved in `data/raw/transactions_raw.csv`.
+
+## Results
+
+Running `python src/clean_data.py` produces `data/clean/transactions_clean.csv`.
+
+| | Before | After |
+|---|---|---|
+| Rows | 525 | 500 |
+| Duplicate rows | 25 | 0 |
+| Unique merchant names | 17 | 8 |
+| Date formats | 3 | 1 (`YYYY-MM-DD`) |
+| Amount type | text (`$74.81`, ` 70.31 `) | number (`float`) |
+
+Original descriptions are kept in the `description` column so every normalization can be audited.
 
 ## Project structure
 
@@ -44,16 +58,17 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python src/generate_data.py
+python src/clean_data.py
 ```
 
 ## Roadmap
 
 - [x] Generate synthetic, messy transaction data
-- [ ] Inspect the raw data and document the issues
-- [ ] Standardize dates and convert amounts to numbers
-- [ ] Normalize merchant names
-- [ ] Remove duplicate rows
-- [ ] Add before/after results to this README
+- [x] Inspect the raw data and document the issues
+- [x] Standardize dates and convert amounts to numbers
+- [x] Normalize merchant names
+- [x] Remove duplicate rows
+- [x] Add before/after results to this README
 - [ ] Categorize transactions with machine learning
 - [ ] Summary report in Excel
 
