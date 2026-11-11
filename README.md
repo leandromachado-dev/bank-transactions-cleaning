@@ -2,7 +2,7 @@
 
 Cleaning and standardizing messy bank transaction data with Python and pandas.
 
-> **Status:** cleaning pipeline done; machine learning categorization is next.
+> **Status:** cleaning pipeline and Excel report done; machine learning categorization is planned.
 
 ## Problem
 
@@ -35,6 +35,14 @@ Running `python src/clean_data.py` produces `data/clean/transactions_clean.csv`.
 
 Original descriptions are kept in the `description` column so every normalization can be audited.
 
+## Excel report
+
+`python src/summary.py` builds `data/clean/summary.xlsx` with three sheets:
+
+- **Clean data:** the 500 cleaned transactions
+- **By merchant:** number of purchases and total spent per merchant
+- **By month:** total spent per month
+
 ## Project structure
 
 ```
@@ -59,6 +67,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python src/generate_data.py
 python src/clean_data.py
+python src/summary.py
 ```
 
 ## Roadmap
@@ -70,7 +79,7 @@ python src/clean_data.py
 - [x] Remove duplicate rows
 - [x] Add before/after results to this README
 - [ ] Categorize transactions with machine learning
-- [ ] Summary report in Excel
+- [x] Summary report in Excel
 
 ## Tools
 
